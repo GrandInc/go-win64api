@@ -1,4 +1,4 @@
-module github.com/grandinc/go-win64api
+module github.com/GrandInc/go-win64api
 
 go 1.14
 

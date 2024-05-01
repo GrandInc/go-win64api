@@ -1,6 +1,6 @@
 module github.com/grandinc/go-win64api
 
-go 1.13
+go 1.14
 
 require (
 	github.com/go-ole/go-ole v1.2.6

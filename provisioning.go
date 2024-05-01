@@ -8,7 +8,7 @@ import (
 	"syscall"
 	"unsafe"
 
-	so "github.com/GrandInc/go-win64api/shared"
+	so "github.com/grandinc/go-win64api/shared"
 )
 
 var (

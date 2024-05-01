@@ -12,7 +12,7 @@ import (
 	"github.com/google/cabbie/updatehistory"
 	"github.com/scjalliance/comshim"
 
-	so "github.com/GrandInc/go-win64api/shared"
+	so "github.com/grandinc/go-win64api/shared"
 )
 
 var updateResultStatus []string = []string{
